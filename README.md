@@ -22,3 +22,7 @@ Genome analysis is the identification of genomic features such as gene expressio
 **You may use any programming language you feel most comfortable. We recommend Python because it is the easiest to implement. You're allowed to use any library you want to implement this**, just document which ones you used in this README file. Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
+
+## Explanation
+
+This solution was created using the Biopython library and contains code from the tutorial on the website. When looking for information, I originally found information about Circos, which appeared to be created in order to create genome maps. Since it was suggested that Python was the easiest language to use to implement a solution for this challenge, I looked for ways to make a Circos map in Python. However, I ran into multiple dead ends because I found libraries that were either deprecated or had unclear instructions for use. Since Biopython showed up frequently in my search results, I searched "genome diagram biopython." This is what lead to the tutorial that I used to create this solution.
